@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [Scope](chapter1.md)
 * [Functions](functions.md)
-* Events
+* [Events](events.md)
 
