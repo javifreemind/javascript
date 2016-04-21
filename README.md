@@ -1,3 +1,5 @@
-# My Awesome Book
+# Javascript tutorial
+This tutorial is a refernece guide for my javascript learnig.
+> Written by Francisco Javie Abellán Abenza.
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
