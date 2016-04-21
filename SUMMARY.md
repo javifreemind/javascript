@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * [Scope](chapter1.md)
+* Functions
 
